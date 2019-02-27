@@ -17,7 +17,7 @@ let _hubs = [
   {
     id: 2,
     name: 'api-2',
-  },
+  }, 
   {
     id: 3,
     name: 'api-3',
